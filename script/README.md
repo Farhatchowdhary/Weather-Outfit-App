@@ -9,16 +9,19 @@ A simple weather-based outfit suggestion app built with **HTML, CSS, and JavaScr
 - Simple and responsive layout
 
 ## 🧠 How It Works
-The app uses a small set of predefined weather data for major cities like London, Paris, and Tokyo.  
+The app uses a small set of predefined weather data for major cities like **London**, **Paris**, and **Tokyo**.  
 If you enter another city, it generates a random temperature and suggests an outfit accordingly.
 
 ## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- Vanilla JavaScript
+- **HTML5**  
+- **CSS3**  
+- **Vanilla JavaScript**
 
 ## 📸 Demo
-(You can add screenshots here later.)
+*(You can add screenshots here later, e.g. a preview image or live link)*
+
+## 📂 Project Structure
+
 
 ## 📂 Project Structure
 weather-outfit-app/
@@ -31,10 +34,12 @@ weather-outfit-app/
 └── README.md
 
 
+
 ## 💡 Future Improvements
 - Fetch live weather data using OpenWeatherMap API  
 - Add icons or animations for weather conditions  
 - Make the UI more stylish
 
 ---
-Made with ❤️ by [Farhat Chowdhary]
+
+Made with ❤️ by **Farhat Chowdhary**
